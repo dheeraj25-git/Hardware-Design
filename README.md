@@ -1,7 +1,6 @@
 # PCB Designs Collection  
 *Open-source hardware for IoT, RF, USB, sensors, and more — designed in KiCad*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 [![KiCad 9](https://img.shields.io/badge/KiCad-9.0+-green.svg)](https://www.kicad.org/)  
 
 ---
