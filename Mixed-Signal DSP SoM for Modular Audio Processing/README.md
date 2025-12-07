@@ -16,7 +16,7 @@ A **compact, production-ready 40x40mm System on Module (SoM)** designed for **hi
 |-----------------------|--------------------------------------------------------|
 | **MCU**               | STM32H743xI/G – 480 MHz, 2MB Flash, 1MB RAM, FPU + DSP |
 | **Audio Codec**       | Integrated ADC/DAC + 4x SAI (Serial Audio Interface)   |
-| **PCB**               | 4-Layer (Sig-GND-GND-Sig), Altium Designer             |
+| **PCB**               | 4-Layer (Sig-GND-GND-Sig)                              |
 | **High-Speed I/O**    | 2x USB OTG HS/FS (crystal-less), 2x SDIO (125 MHz)     |
 | **Power**             | 3.3V Digital + 1.8V Analog (isolated rails)            |
 | **Debug**             | SWD via Tag-Connect (solderless), 24 MHz XTAL          |
